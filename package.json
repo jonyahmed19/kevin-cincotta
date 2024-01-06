@@ -1,0 +1,39 @@
+{
+  "name": "gesturesoflove-v5",
+  "version": "1.0.0",
+  "description": "A simple react-spring-lightbox demo with custom UI components and an image mosaic",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emailjs/browser": "^3.6.2",
+    "@reach/router": "1.3.4",
+    "@react-spring/web": "9.2.1",
+    "color": "3.1.2",
+    "dotenv": "^16.0.1",
+    "rc-slider": "^10.0.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-icons": "3.10.0",
+    "react-photo-album": "1.11.1",
+    "react-scripts": "3.4.1",
+    "react-spring": "9.4.4",
+    "react-spring-lightbox": "1.6.0",
+    "styled-components": "5.1.0",
+    "worker-rpc": "^0.2.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
